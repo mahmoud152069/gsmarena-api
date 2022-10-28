@@ -31,14 +31,14 @@ The API basically reads from GSMArena website and results JSON data.
 
 ## Online Demo
 
-* [Brand list](https://gsmarena-api.herokuapp.com/brands)
-* [Device list by brand](https://gsmarena-api.herokuapp.com/brand/apple-phones-48)
-* [Device detail](https://gsmarena-api.herokuapp.com/device/apple_iphone_13_pro_max-11089)
-* [Searching for device](https://gsmarena-api.herokuapp.com/search/casio)
-* [Top](https://gsmarena-api.herokuapp.com/top)
-* [Deals](https://gsmarena-api.herokuapp.com/deals)
-* [Glossary](https://gsmarena-api.herokuapp.com/glossary)
-* [Glossary detail](https://gsmarena-api.herokuapp.com/glossary/xenon-flash)
+* [Brand list](https://gsmarenadamour.herokuapp.com//brands)
+* [Device list by brand](https://gsmarenadamour.herokuapp.com/brand/apple-phones-48)
+* [Device detail](https://gsmarenadamour.herokuapp.com/device/apple_iphone_13_pro_max-11089)
+* [Searching for device](https://gsmarenadamour.herokuapp.com//search/casio)
+* [Top](https://https://gsmarenadamour.herokuapp.com/top)
+* [Deals](https://gsmarenadamour.herokuapp.com/deals)
+* [Glossary](https://gsmarenadamour.herokuapp.com/glossary)
+* [Glossary detail](https://gsmarenadamour.herokuapp.com//glossary/xenon-flash)
 
 ## Documentation
 
@@ -223,7 +223,7 @@ If you want to use proxy add a constant `HTTP_PROXY` in `.env` file or `HTTPS_PR
 ## Contact
 
 Created by [@nordmarin](https://t.me/nordmarin) - feel free to contact me!
-
+updated & bug fixes by Mahmoud Damour 
 ## License
 
 GSMArena API is MIT licensed.
