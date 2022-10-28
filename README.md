@@ -31,14 +31,14 @@ The API basically reads from GSMArena website and results JSON data.
 
 ## Online Demo
 
-* [Brand list](https://gsmarenadamour.herokuapp.com//brands)
+* [Brand list](https://gsmarenadamour.herokuapp.com/brands)
 * [Device list by brand](https://gsmarenadamour.herokuapp.com/brand/apple-phones-48)
 * [Device detail](https://gsmarenadamour.herokuapp.com/device/apple_iphone_13_pro_max-11089)
-* [Searching for device](https://gsmarenadamour.herokuapp.com//search/casio)
+* [Searching for device](https://gsmarenadamour.herokuapp.com/search/casio)
 * [Top](https://https://gsmarenadamour.herokuapp.com/top)
 * [Deals](https://gsmarenadamour.herokuapp.com/deals)
 * [Glossary](https://gsmarenadamour.herokuapp.com/glossary)
-* [Glossary detail](https://gsmarenadamour.herokuapp.com//glossary/xenon-flash)
+* [Glossary detail](https://gsmarenadamour.herokuapp.com/glossary/xenon-flash)
 
 ## Documentation
 
